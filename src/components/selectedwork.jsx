@@ -13,13 +13,13 @@ export default function SelectedWorkSection() {
     return(
         <section className="bg-gray-50 py-16 px-6 md:px-20">
             <div className="flex flex-col md:flex-row gap-8">
-                // Sidebar
+                {/* Sidebar */} 
                 <div className="md:w-1/4">
                     <h2 className="text-3xl font-semibold mb-4">Showcased <br />Work</h2>
                     <button className="bg-black text-white px-5 py-2 rounded-full hover:bg-gray-800 transition">See All</button>
                 </div>
 
-                //Work
+                {/* Work */}
                 <div className="md:w-3/4 space-y-10">
                     {workItems.map((item, idx) => (
                         <div
