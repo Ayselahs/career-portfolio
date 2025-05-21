@@ -1,0 +1,208 @@
+[
+  {
+    "slug": "endpoint-forensics",
+    "title": "Endpoint Forensics and Threat Triage Using Cyber Triage",
+    "videoUrl": "",
+    "image": "/IRPlanning.png",
+    "tags": [
+      "Windows Forensics",
+      "Incident Response",
+      "Threat Triage",
+      "Endpoint Security"
+    ],
+    "year": 2024,
+    "objective": "",
+    "tools": [""],
+    "steps": [""],
+    "concepts": [""],
+    "reflections": ""
+  },
+
+  {
+    "slug": "dns-config",
+    "title": "Microsoft Security System Administration Lab",
+    "videoUrl": "",
+    "image": "/DNSConfig.png",
+    "tags": [
+      "Windows Security",
+      "Active Directory",
+      "User Management",
+      "Security Hardening"
+    ],
+    "year": 2024,
+    "objective": "",
+    "tools": [],
+    "steps": [],
+    "concepts": [],
+    "reflections": ""
+  },
+  {
+    "slug": "network-traffic",
+    "title": "Analyzing Network Traffic with Wireshark",
+    "videoUrl": "",
+    "image": "/BehanceTitle.png",
+    "tags": [
+      "Network Forensics",
+      "Packet Analysis",
+      "Wireshark",
+      "Intrusion Detection"
+    ],
+    "year": 2025,
+    "objective": "",
+    "tools": [],
+    "steps": [],
+    "concepts": [],
+    "reflections": ""
+  },
+  {
+    "slug": "wireshark-analysis",
+    "title": "Exploring Network Analysis with Wireshark",
+    "videoUrl": "",
+    "image": "/WiresharkAnalysis.png",
+    "tags": [
+      "Network Forensics",
+      "Wireshark",
+      "Packet Analysis",
+      "Intrusion Detection",
+      "TCP/IP"
+    ],
+    "year": 2024,
+    "objective": "",
+    "tools": [],
+    "steps": [],
+    "concepts": [],
+    "reflections": ""
+  },
+  {
+    "slug": "access-control",
+    "title": "Implementing Access Control Lists in Linux",
+    "videoUrl": "",
+    "image": "/BehanceTitle.png",
+    "tags": [
+      "Windows Security",
+      "File Permissions",
+      "Access Control",
+      "System Hardening"
+    ],
+    "year": 2025,
+    "objective": "",
+    "tools": [],
+    "steps": [],
+    "concepts": [],
+    "reflections": ""
+  },
+  {
+    "slug": "acl-security",
+    "title": "Demonstrating Access Control Lists Implementation for Network Security",
+    "videoUrl": "",
+    "image": "/ACLNetworkSecurity.png",
+    "tags": [
+      "Network Security",
+      "ACLs",
+      "Traffic Filtering",
+      "Firewall Rules",
+      "Linux Networking"
+    ],
+    "year": 2024,
+    "objective": "",
+    "tools": [""],
+    "steps": [""],
+    "concepts": [""],
+    "reflections": ""
+  },
+
+  {
+    "slug": "honypot-attack",
+    "title": "Deploying and Testing a Secure SSH Honeypot",
+    "videoUrl": "",
+    "image": "/HoneypotAttack.png",
+    "tags": [
+      "Linux Security",
+      "Threat Detection",
+      "SSH Security",
+      "Cyber Deception"
+    ],
+    "year": 2025,
+    "objective": "",
+    "tools": [],
+    "steps": [],
+    "concepts": [],
+    "reflections": ""
+  },
+  {
+    "slug": "dns-demo",
+    "title": "Demonstrating DNS Configuration",
+    "videoUrl": "",
+    "image": "/DNSConfig.png",
+    "tags": [
+      "Network Configuration",
+      "Windows Server",
+      "Linux Networking",
+      "Name Resolution"
+    ],
+    "year": 2024,
+    "objective": "",
+    "tools": [],
+    "steps": [],
+    "concepts": [],
+    "reflections": ""
+  },
+  {
+    "slug": "aws-iam",
+    "title": "Managing IAM Users and Permissions in AWS",
+    "videoUrl": "",
+    "image": "/AWSCloudIAM.png",
+    "tags": [
+      "Cloud Security",
+      "IAM",
+      "AWS",
+      "User Management",
+      "Access Control"
+    ],
+    "year": 2025,
+    "objective": "",
+    "tools": [],
+    "steps": [],
+    "concepts": [],
+    "reflections": ""
+  },
+  {
+    "slug": "custom-vpc",
+    "title": "Deploying a VPC with Subnets, Routing, and a Web Server in AWS",
+    "videoUrl": "",
+    "image": "/CustomVPC.png",
+    "tags": [
+      "Cloud Networking",
+      "AWS",
+      "VPC",
+      "Subnets",
+      "Routing",
+      "Web Server"
+    ],
+    "year": 2025,
+    "objective": "",
+    "tools": [],
+    "steps": [],
+    "concepts": [],
+    "reflections": ""
+  },
+  {
+    "slug": "load-balancing",
+    "title": "Scale and Load Balance Your Architecture in AWS",
+    "videoUrl": "",
+    "image": "/LoadBalancing.png",
+    "tags": [
+      "Cloud Architecture",
+      "Auto Scaling",
+      "Load Balancing",
+      "AWS",
+      "High Availability"
+    ],
+    "year": 2025,
+    "objective": "",
+    "tools": [],
+    "steps": [],
+    "concepts": [],
+    "reflections": ""
+  }
+]
